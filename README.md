@@ -1,4 +1,4 @@
-# wall_me
+# Startup Name Generator
 
 A new Flutter project.
 
